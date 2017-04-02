@@ -2,10 +2,7 @@ package ch.renewinkler;
 
 import ch.renewinkler.execute_around_method.FileWriterEAM;
 import ch.renewinkler.execute_around_method.Timer;
-import ch.renewinkler.execute_around_method.Transaction;
 import ch.renewinkler.execute_around_method.TransactionHandler;
-
-import java.io.IOException;
 
 public class Main {
 
